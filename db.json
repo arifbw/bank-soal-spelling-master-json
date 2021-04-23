@@ -1,7 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "list_soal": [
+    { "id": 1, "soal": "Contoh soal 1", "jawaban": "가것그녀" },
+    { "id": 2, "soal": "Contoh soal 1", "jawaban": "가것그녀" },
+    { "id": 3, "soal": "Contoh soal 1", "jawaban": "가것그녀" }
   ]
 }
