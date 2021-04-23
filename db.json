@@ -51,5 +51,7 @@
       "jawaban": "가것그녀"
     }
   ],
-  "version": "1.0"
+  "version": {
+    "code": "1.0"
+  }
 }
