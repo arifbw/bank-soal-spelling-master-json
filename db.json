@@ -46,61 +46,64 @@
       "id": 1,
       "id_chapter": 1,
       "soal": "Contoh soal 1",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 2,
       "id_chapter": 1,
       "soal": "Contoh soal 2",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 2,
       "id_chapter": 1,
       "soal": "Contoh soal 3",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 4,
       "id_chapter": 1,
       "soal": "Contoh soal 4",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 5,
       "id_chapter": 1,
       "soal": "Contoh soal 5",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 6,
       "id_chapter": 1,
       "soal": "Contoh soal 6",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 7,
       "id_chapter": 1,
       "soal": "Contoh soal 7",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 8,
       "id_chapter": 1,
       "soal": "Contoh soal 8",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 9,
       "id_chapter": 1,
       "soal": "Contoh soal 9",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     },
     {
       "id": 10,
       "id_chapter": 1,
       "soal": "Contoh soal 10",
-      "jawaban": "가것그녀"
+      "jawaban": "ᄇᄇᄇ"
     }
-  ]
+  ],
+  "versi": {
+    "kode": "1.0"
+  }
 }
