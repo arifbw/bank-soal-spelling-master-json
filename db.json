@@ -1,52 +1,104 @@
 {
+  "list_chapter": [
+    {
+      "id": 1,
+      "photo": "",
+      "nama": "seoul",
+      "difficulty": "easy",
+      "price": 0,
+      "desc": "lorem ipsum"
+    },
+    {
+      "id": 2,
+      "photo": "",
+      "nama": "test",
+      "difficulty": "easy",
+      "price": 2000,
+      "desc": "test desc 1"
+    },
+    {
+      "id": 3,
+      "photo": "",
+      "nama": "test 2",
+      "difficulty": "normal",
+      "price": 8000,
+      "desc": "test desc 2"
+    },
+    {
+      "id": 4,
+      "photo": "",
+      "nama": "test 3",
+      "difficulty": "normal",
+      "price": 12000,
+      "desc": "test desc 3"
+    },
+    {
+      "id": 5,
+      "photo": "",
+      "nama": "test 4",
+      "difficulty": "hard",
+      "price": 50000,
+      "desc": "test desc 4"
+    }
+  ],
   "list_soal": [
     {
       "id": 1,
+      "id_chapter": 1,
       "soal": "Contoh soal 1",
       "jawaban": "가것그녀"
     },
     {
       "id": 2,
+      "id_chapter": 1,
       "soal": "Contoh soal 2",
       "jawaban": "가것그녀"
     },
     {
       "id": 2,
+      "id_chapter": 1,
       "soal": "Contoh soal 3",
       "jawaban": "가것그녀"
     },
     {
       "id": 4,
+      "id_chapter": 1,
       "soal": "Contoh soal 4",
       "jawaban": "가것그녀"
     },
     {
       "id": 5,
+      "id_chapter": 1,
       "soal": "Contoh soal 5",
       "jawaban": "가것그녀"
     },
     {
       "id": 6,
+      "id_chapter": 1,
       "soal": "Contoh soal 6",
       "jawaban": "가것그녀"
     },
     {
       "id": 7,
+      "id_chapter": 1,
       "soal": "Contoh soal 7",
       "jawaban": "가것그녀"
     },
     {
       "id": 8,
+      "id_chapter": 1,
       "soal": "Contoh soal 8",
       "jawaban": "가것그녀"
     },
     {
       "id": 9,
+      "id_chapter": 1,
       "soal": "Contoh soal 9",
       "jawaban": "가것그녀"
     },
     {
       "id": 10,
+      "id_chapter": 1,
       "soal": "Contoh soal 10",
       "jawaban": "가것그녀"
     }
