@@ -2,43 +2,43 @@
   "list_chapter": [
     {
       "id": 1,
-      "photo": "",
-      "nama": "seoul",
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/seoul.jpg",
+      "nama": "Seoul",
       "difficulty": "easy",
       "price": 0,
-      "desc": "lorem ipsum"
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
     },
     {
       "id": 2,
-      "photo": "",
-      "nama": "test",
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/busan.jpeg",
+      "nama": "Busan",
       "difficulty": "easy",
-      "price": 2000,
-      "desc": "test desc 1"
+      "price": 0,
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
     },
     {
       "id": 3,
-      "photo": "",
-      "nama": "test 2",
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/daegu.jpg",
+      "nama": "Daegu",
       "difficulty": "normal",
       "price": 8000,
-      "desc": "test desc 2"
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
     },
     {
       "id": 4,
-      "photo": "",
-      "nama": "test 3",
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/daejeon.jpg",
+      "nama": "Daejeon",
       "difficulty": "normal",
       "price": 12000,
-      "desc": "test desc 3"
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
     },
     {
       "id": 5,
-      "photo": "",
-      "nama": "test 4",
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/gwangju.jpg",
+      "nama": "Gwangju",
       "difficulty": "hard",
       "price": 50000,
-      "desc": "test desc 4"
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
     }
   ],
   "list_soal": [
